@@ -28,3 +28,11 @@ how to initialize github project
 - [ ] git add .
 - [x] git init
 - [ ] git remote
+
+``````` python
+a=10
+b=10
+ print("a is equal to b")
+else
+ print("a is not equal to b")
+ ````````
