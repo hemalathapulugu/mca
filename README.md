@@ -22,3 +22,9 @@ ___
 :blush:
 
 :sleeping:
+
+how to initialize github project
+
+- [ ] git add .
+- [x] git init
+- [ ] git remote
